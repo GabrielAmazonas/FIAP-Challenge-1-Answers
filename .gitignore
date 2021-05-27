@@ -1,0 +1,3 @@
+slim_bigdata_docker/postgresql/*
+slim_bigdata_docker/hdfs/datanode/current/*
+slim_bigdata_docker/hdfs/namenode/current/*
